@@ -91,6 +91,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hfcaio/hfcaio/output/snake.svg" alt="Snake animation" />
+![]("https://raw.githubusercontent.com/hfcaio/hfcaio/output/snake.svg")
 
 ###
